@@ -1,0 +1,10 @@
+site_name: Jam-in-a-Box for IBM Security Verify SaaS
+theme:
+  name: material
+  navigation:
+    - Homepage: index.md
+    - Project: index.md
+      -Introduction: index.md
+      -Next Page: chapter2.md
+
+  language: en
